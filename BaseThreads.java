@@ -1,4 +1,6 @@
-import org.w3c.dom.css.Counter;
+/*
+ * base class that i use to copy paste for creation of threads
+ */
 
 public class BaseThreads {
     private static int NT = 2;
